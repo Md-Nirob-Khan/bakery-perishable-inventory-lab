@@ -1,0 +1,6 @@
+{
+  "name": "Crumb & Ledger — Perishable Bakery Inventory Lab",
+  "description": "Graduate Production and Inventory Control simulator comparing Simple Newsvendor and Age-Aware Order-Up-To policies for perishable bakery goods with FIFO issuing, day-old markdowns, and weekday Holt-Winters forecasting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
